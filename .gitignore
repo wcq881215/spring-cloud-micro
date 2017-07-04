@@ -1,3 +1,5 @@
 *.iml
 .idea/*
-spring-boot-start/target/
+spring-boot-start/target/*
+/spring-boot-start/spring-boot-start.iml
+/spring-cloud-eureka/spring-cloud-eureka.iml
