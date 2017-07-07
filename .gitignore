@@ -3,3 +3,11 @@
 spring-boot-start/target/*
 /spring-boot-start/spring-boot-start.iml
 /spring-cloud-eureka/spring-cloud-eureka.iml
+spring-boot-start/target/
+spring-cloud-eureka/target/
+/eureka-client/eureka-client.iml
+/eureka-client/target/
+/spring-boot-start/target/
+/spring-cloud-eureka/target/
+/spring-cloud-consul/spring-cloud-consul.iml
+/eureka-consumer/eureka-consumer.iml
